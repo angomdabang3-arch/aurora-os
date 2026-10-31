@@ -1,0 +1,9 @@
+{
+  "name": "Aurora OS",
+  "short_name": "Aurora",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10183a",
+  "theme_color": "#10183a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

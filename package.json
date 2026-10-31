@@ -1,0 +1,9 @@
+{
+  "name": "aurora-os",
+  "version": "1.0.0",
+  "description": "A Windows 11 style web desktop with a built-in browser, games and emulator",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
